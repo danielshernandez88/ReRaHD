@@ -1,0 +1,204 @@
+----------------------------------------------------------
+
+  Connection Failed Report from
+  Basic UDE Target Interface, Version: 1.10.10
+  created: 08/24/14, 23:58:29
+
+----------------------------------------------------------
+
+Windows version:
+  Win7 ()
+  Admin: yes
+
+UDE version:
+  Release:  4.00.08
+  Build:    2542
+  Path:     C:\Program Files\pls\UDE 4.0
+
+Target configuration file:
+  C:\Users\Daniel\workspace\FreeRTOSTC1797\.ude\.target\TriBoard_TC1797.cfg
+
+Error messages:
+  TcCoreTargIntf: Can't connect target !
+  TcCoreTargIntf: Can't connect JTAG target
+  TcCoreTargIntf: Failed to connect target device !
+
+Settings:
+  PortType:  DAS
+  CommDevSel:  
+  TargetPort:  Default
+  TargetPortId:  553582592
+  DasIsDefault:  n
+  MaxJtagClk:  5000
+  ScanJTAG:  n
+  Ocds1ViaPod:  n
+  EtksArbiterMode:  0
+  RefreshJtag:  n
+  RefreshHarr:  n
+  ReduceJtagClock:  n
+  UseDap:  n
+  DapMode:  2PIN
+  JtagMuxPort:  -1
+  UseNewJtagEngine:  n
+  ConnOption:  0
+  ResetWaitTime:  500
+  ResetMode:  Default
+  DiswdtOnReset:  n
+  SetPllOnReset:  0x00000000
+  SetPllOnReset2:  0x00000000
+  HandleFlashBug:  n
+  HandleEdBootBug:  n
+  EdBootBugChangePc:  0xD4000000
+  HandleAbmHeader:  n
+  UseExtAbmHeader:  n
+  HandleBromTc002Bug:  n
+  WaitForStartOfBootCode:  n
+  ExecInitCmds:  y
+  InitScript Script:
+    SET EBU_MODCON 0x800000E1
+    SET EBU_BUSRAP0 0x11F0190
+    SET EBU_BUSWAP0 0x11F0190
+    SET EBU_ADDRSEL0 0xA2000853
+    SET EBU_BUSRAP1 0x11F0190
+    SET EBU_BUSWAP1 0x11F0190
+    SET EBU_ADDRSEL1 0xA1000873
+  FilterMemAcc:  y
+  MaxTry:  1
+  HandleEbuInitBug:  n
+  FailOnResetMalfunction:  n
+  ResetPulseLen:  10
+  AddResetDelay:  0
+  RiderDAddrTrans:  n
+  AlwaysSetSusp:  n
+  HandleSwBrpCacheBug:  n
+  SimioAddr:  g_JtagSimioAccess
+  HaltAfterReset:  y
+  UseStmForPtm:  1
+  SuspSTMOnHalt:  n
+  ExecOnStartCmds:  n
+  OnStartScript Script:
+    Script is empty
+  ExecOnHaltCmds:  n
+  OnHaltScript Script:
+    Script is empty
+  UseTriggerToBreak:  y
+  UseIoinfoHalt:  y
+  UseOstateStable:  y
+  PxrosHrSupport:  n
+  UseAllProtRegSets:  n
+  AllowJtagResetWhileRunning:  y
+  MaxAccRetry:  1
+  AccRetryDelay:  100
+  DefOcdsReserved:  
+  HandleOcdsTc028Bug:  n
+  SuspendPcpWhileHalted:  n
+  DasDllPath:  das_api.dll
+  DasHost:  
+  DasTryStartSrv:  y
+  DasSrvPath:  servers\udas\udas.exe
+  DasStopSrv:  y
+  DasResetHelperBreakAddr:  main
+  DasResetMode:  2
+  DasRemoveLogFile:  n
+  DasForwardSerNum:  n
+  DasSrvSel:  -1
+  DasPortType:  0
+  DasPortSel:  0
+
+Settings:
+  PortType:  DAS
+  CommDevSel:  
+  TargetPort:  Default
+  TargetPortId:  553582592
+  DasIsDefault:  n
+  MaxJtagClk:  5000
+  ScanJTAG:  n
+  Ocds1ViaPod:  n
+  EtksArbiterMode:  0
+  RefreshJtag:  n
+  RefreshHarr:  n
+  ReduceJtagClock:  n
+  UseDap:  n
+  DapMode:  2PIN
+  JtagMuxPort:  -1
+  UseNewJtagEngine:  n
+  ConnOption:  0
+  ResetWaitTime:  500
+  ResetMode:  Default
+  DiswdtOnReset:  n
+  SetPllOnReset:  0x00000000
+  SetPllOnReset2:  0x00000000
+  HandleFlashBug:  n
+  HandleEdBootBug:  n
+  EdBootBugChangePc:  0xD4000000
+  HandleAbmHeader:  n
+  UseExtAbmHeader:  n
+  HandleBromTc002Bug:  n
+  WaitForStartOfBootCode:  n
+  ExecInitCmds:  y
+  InitScript Script:
+    SET EBU_MODCON 0x800000E1
+    SET EBU_BUSRAP0 0x11F0190
+    SET EBU_BUSWAP0 0x11F0190
+    SET EBU_ADDRSEL0 0xA2000853
+    SET EBU_BUSRAP1 0x11F0190
+    SET EBU_BUSWAP1 0x11F0190
+    SET EBU_ADDRSEL1 0xA1000873
+  FilterMemAcc:  y
+  MaxTry:  1
+  HandleEbuInitBug:  n
+  FailOnResetMalfunction:  n
+  ResetPulseLen:  10
+  AddResetDelay:  0
+  RiderDAddrTrans:  n
+  AlwaysSetSusp:  n
+  HandleSwBrpCacheBug:  n
+  SimioAddr:  g_JtagSimioAccess
+  HaltAfterReset:  y
+  UseStmForPtm:  1
+  SuspSTMOnHalt:  n
+  ExecOnStartCmds:  n
+  OnStartScript Script:
+    Script is empty
+  ExecOnHaltCmds:  n
+  OnHaltScript Script:
+    Script is empty
+  UseTriggerToBreak:  y
+  UseIoinfoHalt:  y
+  UseOstateStable:  y
+  PxrosHrSupport:  n
+  UseAllProtRegSets:  n
+  AllowJtagResetWhileRunning:  y
+  MaxAccRetry:  1
+  AccRetryDelay:  100
+  DefOcdsReserved:  
+  HandleOcdsTc028Bug:  n
+  SuspendPcpWhileHalted:  n
+  DasDllPath:  das_api.dll
+  DasHost:  
+  DasTryStartSrv:  y
+  DasSrvPath:  servers\udas\udas.exe
+  DasStopSrv:  y
+  DasResetHelperBreakAddr:  main
+  DasResetMode:  2
+  DasRemoveLogFile:  n
+  DasForwardSerNum:  n
+  DasSrvSel:  -1
+  DasPortType:  0
+  DasPortSel:  0
+
+JTAG target infos:
+  JTAG-ID:           0x1015A083
+  UsedJtagClk:       3000 kHz
+  ExtVoltage:        0.0 V
+  IntVoltageUsed:    n
+  PCP Cip-ID:        0x00000000
+
+DAS related information:
+  DAS DLL Version:        
+  Server started by UDE:  C:\Program Files\DAS\servers\udas\udas.exe
+  Server name:            UDAS
+  Server manufacturer:    Infineon
+  Server version:         V3.3
+  DAS-API version:        V4.0
+  Server lib version:     V3.0

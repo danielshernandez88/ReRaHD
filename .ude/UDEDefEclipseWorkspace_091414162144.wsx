@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<stg format="2.0">
+	<OriginalWsp type="string">UDEDefEclipseWorkspace.wsx</OriginalWsp><BackupWspFlag type="flag">1</BackupWspFlag><UseWspCnt type="int">0</UseWspCnt><WspCloseCnt type="int">0</WspCloseCnt><ProdInfo type="bin" size="52">vQTv/gAAAQAXAAIA7gkNAAAABAAAAAAAPwAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAA==</ProdInfo><ProdInfoString type="string">4.0</ProdInfoString><CreationDate type="string">24.08.2014 16:15:19:999</CreationDate><MainFrame type="key"><EclipsePlacementRoot type="key"><UDEPerspectiveSettings type="innerxml"><UDEPersistance editorAreaTrimState="0" editorAreaVisible="1" fixed="0" version="0.016">
+					<descriptor class="com.pls.ude.eclipse.Perspective" id="com.pls.ude.eclipse.perspective" label="UDE Perspective"/>
+					<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+					<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+					<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+					<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+					<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+					<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+					<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+					<alwaysOffActionSet id="com.rt.hightec.dave.project.start"/>
+					<alwaysOffActionSet id="com.rt.hightec.framework.buildsystem.actionset.build"/>
+					<alwaysOffActionSet id="com.rt.hightec.modeling.linker.core.action.set"/>
+					<alwaysOffActionSet id="org.eclipse.ant.ui.actionSet.presentation"/>
+					<alwaysOffActionSet id="org.eclipse.cdt.debug.ui.debugActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.cdt.debug.ui.reverseDebuggingActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.cdt.debug.ui.tracepointActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.cdt.debug.ui.debugViewLayoutActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.cdt.dsf.debug.ui.updateModes"/>
+					<alwaysOffActionSet id="org.eclipse.mylyn.cdt.ui.actionSet"/>
+					<alwaysOffActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.debug.ui.profileActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.egit.ui.gitaction"/>
+					<alwaysOffActionSet id="org.eclipse.egit.ui.navigation"/>
+					<alwaysOffActionSet id="org.eclipse.gmf.runtime.diagram.ui.DiagramActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.jdt.ui.text.java.actionSet.presentation"/>
+					<alwaysOffActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.jdt.ui.A_OpenActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.jdt.ui.CodingActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.jdt.ui.SearchActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+					<alwaysOffActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+					<alwaysOffActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+					<alwaysOffActionSet id="org.eclipse.mylyn.tasks.ui.navigation.additions"/>
+					<alwaysOffActionSet id="org.eclipse.pde.ui.SearchActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.team.cvs.ui.CVSActionSet"/>
+					<alwaysOffActionSet id="org.eclipse.team.ui.actionSet"/>
+					<alwaysOffActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+					<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+					<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+					<view id="com.pls.ude.eclipse.udeinterface.view:StdUDEMessageWin.WorkspaceManager.0"/>
+					<view id="com.pls.ude.eclipse.udeinterface.view:StdTargetManagerWin.WorkspaceManager.0"/>
+					<view id="com.pls.ude.eclipse.udeinterface.view:StdUDESymbolExplWin.Target0.Controller0.Core.0"/>
+					<view id="com.pls.ude.eclipse.udeinterface.view:StdUDEProgWin.Target0.Controller0.Core.0"/>
+					<fastViewBars/>
+					<layout>
+						<mainWindow>
+							<info folder="true" part="ude.views.folder.top">
+								<folder appearance="2" expanded="2"/>
+							</info>
+							<info folder="true" part="stickyFolderRight" ratio="0.7493976" ratioLeft="933" ratioRight="312" relationship="2" relative="ude.views.folder.top">
+								<folder appearance="2" expanded="2">
+									<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+									<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+									<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+								</folder>
+							</info>
+							<info folder="true" part="ude.views.folder.left" ratio="0.2" ratioLeft="131" ratioRight="524" relationship="4" relative="ude.views.folder.top">
+								<folder activePageID="com.pls.ude.eclipse.udeinterface.view:StdTargetManagerWin.WorkspaceManager.0" appearance="2" expanded="2">
+									<page content="com.pls.ude.eclipse.udeinterface.view:StdTargetManagerWin.WorkspaceManager.0" label="Target Browser"/>
+									<page content="com.pls.ude.eclipse.udeinterface.view:StdUDESymbolExplWin.Target0.Controller0.Core.0" label="Core Symbols"/>
+									<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+										<part id="0"/>
+										<part id="1"/>
+									</presentation>
+								</folder>
+							</info>
+							<info folder="true" part="ude.views.folder.bottom" ratio="0.7496183" ratioLeft="491" ratioRight="164" relationship="4" relative="ude.views.folder.left">
+								<folder activePageID="com.pls.ude.eclipse.udeinterface.view:StdUDEMessageWin.WorkspaceManager.0" appearance="2" expanded="2">
+									<page content="com.pls.ude.eclipse.udeinterface.view:StdUDEMessageWin.WorkspaceManager.0" label="Message View"/>
+									<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+										<part id="0"/>
+									</presentation>
+								</folder>
+							</info>
+							<info part="org.eclipse.ui.editorss" ratio="0.2" ratioLeft="249" ratioRight="996" relationship="2" relative="ude.views.folder.left"/>
+							<info folder="true" part="ude.views.folder.center" ratio="0.49959838" ratioLeft="622" ratioRight="623" relationship="2" relative="org.eclipse.ui.editorss">
+								<folder activePageID="com.pls.ude.eclipse.udeinterface.view:StdUDEProgWin.Target0.Controller0.Core.0" appearance="2" expanded="2">
+									<page content="com.pls.ude.eclipse.udeinterface.view:StdUDEProgWin.Target0.Controller0.Core.0" label="C:\...\FreeRTOSTC1797\src\main.c"/>
+									<page content="com.pls.ude.eclipse.udeinterface.view:StdUDEProgWin.Target0.Controller0.Core.1" label="LabelNotFound"/>
+									<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+										<part id="0"/>
+									</presentation>
+								</folder>
+							</info>
+							<info folder="true" part="ude.views.folder.right" ratio="0.74959874" ratioLeft="467" ratioRight="156" relationship="2" relative="ude.views.folder.center">
+								<folder appearance="2" expanded="2"/>
+							</info>
+						</mainWindow>
+					</layout>
+				</UDEPersistance></UDEPerspectiveSettings><UDEWorkbenchSettings type="innerxml"><UDEPersistance height="820" maximized="true" width="960" x="-857" y="11">
+					<fastViewData fastViewLocation="1024"/>
+					<perspectiveBar>
+						<itemSize x="278"/>
+					</perspectiveBar>
+					<coolbarLayout>
+						<coolItem id="group.file" itemType="typeGroupMarker"/>
+						<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="202" y="22"/>
+						<coolItem id="additions" itemType="typeGroupMarker"/>
+						<coolItem id="com.pls.ude.eclipse.toolbar.file" itemType="typeToolBarContribution" x="153" y="22"/>
+						<coolItem id="com.pls.ude.eclipse.toolbar.views" itemType="typeToolBarContribution" x="475" y="22"/>
+						<coolItem id="com.pls.ude.eclipse.toolbar.config" itemType="typeToolBarContribution" x="130" y="22"/>
+						<coolItem id="com.pls.ude.eclipse.toolbar.macro" itemType="typeToolBarContribution" x="344" y="22"/>
+						<coolItem id="com.rt.hightec.dave.project.start" itemType="typeToolBarContribution" x="38" y="22"/>
+						<coolItem id="com.rt.hightec.framework.buildsystem.actionset.build" itemType="typeToolBarContribution" x="53" y="22"/>
+						<coolItem id="com.rt.hightec.support.toolbars.openDocuToolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+						<coolItem id="com.rt.hightec.framework.buildsystem.toolbar" itemType="typeToolBarContribution" x="38" y="22"/>
+						<coolItem id="com.rt.hightec.tricore.editor.linker.editor" itemType="typePlaceholder" x="-1" y="-1"/>
+						<coolItem id="org.eclipse.cdt.ui.CElementCreationActionSet" itemType="typeToolBarContribution" x="167" y="22"/>
+						<coolItem id="org.eclipse.cdt.ui.buildConfigActionSet" itemType="typeToolBarContribution" x="89" y="22"/>
+						<coolItem id="org.eclipse.cdt.ui.editor.CEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+						<coolItem id="org.eclipse.cdt.ui.editor.asm.AsmEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+						<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
+						<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="145" y="22"/>
+						<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+						<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="61" y="22"/>
+						<coolItem id="group.nav" itemType="typeGroupMarker"/>
+						<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+						<coolItem id="group.editor" itemType="typeGroupMarker"/>
+						<coolItem id="group.help" itemType="typeGroupMarker"/>
+						<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+						<coolItem id="com.pls.ude.eclipse.toolbar.debug" itemType="typeToolBarContribution" x="538" y="21"/>
+						<coolItem id="com.pls.ude.eclipse.toolbar.tools" itemType="typeToolBarContribution" x="138" y="21"/>
+					</coolbarLayout>
+					<page aggregateWorkingSetId="Aggregate for window 1404676320119" focus="true" label="Workspace - UDE Perspective">
+						<editors>
+							<editorArea activeWorkbook="DefaultEditorWorkbook">
+								<info part="DefaultEditorWorkbook">
+									<folder appearance="1" expanded="0">
+										<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+											<part id="0"/>
+											<part id="1"/>
+											<part id="2"/>
+											<part id="3"/>
+											<part id="4"/>
+											<part id="5"/>
+											<part id="6"/>
+											<part id="7"/>
+											<part id="8"/>
+											<part id="9"/>
+											<part id="10"/>
+										</presentation>
+									</folder>
+								</info>
+							</editorArea>
+							<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/Users/Daniel/workspace/FreeRTOSTC1797/src/main.c" title="main.c" tooltip="FreeRTOSTC1797/src/main.c" workbook="DefaultEditorWorkbook">
+								<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOSTC1797/src/main.c"/>
+								<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="11156" selectionTopPixel="5478"/>
+							</editor>
+							<editor id="org.eclipse.cdt.ui.editor.CEditor" name="port.c" partName="port.c" path="C:/Users/Daniel/workspace/FreeRTOSTC1797/src/FreeRTOS_Source/portable/GCC/TriCore_1782/port.c" title="port.c" tooltip="FreeRTOSTC1797/src/FreeRTOS_Source/portable/GCC/TriCore_1782/port.c" workbook="DefaultEditorWorkbook">
+								<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOSTC1797/src/FreeRTOS_Source/portable/GCC/TriCore_1782/port.c"/>
+								<editorState selectionHorizontalPixel="0" selectionLength="65" selectionOffset="9228" selectionTopPixel="4730"/>
+							</editor>
+							<editor id="org.eclipse.cdt.ui.editor.CEditor" name="InterruptNestTest.h" partName="InterruptNestTest.h" path="C:/Users/Daniel/workspace/FreeRTOSTC1797/src/InterruptNestTest.h" title="InterruptNestTest.h" tooltip="FreeRTOSTC1797/src/InterruptNestTest.h" workbook="DefaultEditorWorkbook">
+								<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOSTC1797/src/InterruptNestTest.h"/>
+								<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="271" selectionTopPixel="1257"/>
+							</editor>
+							<editor id="org.eclipse.cdt.ui.editor.CEditor" name="IO.c" partName="IO.c" path="C:/Users/Daniel/workspace/FreeRTOSTC1797/src/Dave/IO/IO.c" title="IO.c" tooltip="FreeRTOSTC1797/src/Dave/IO/IO.c" workbook="DefaultEditorWorkbook">
+								<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOSTC1797/src/Dave/IO/IO.c"/>
+								<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="325" selectionTopPixel="0"/>
+							</editor>
+							<editor id="org.eclipse.cdt.ui.editor.CEditor" name="IO.h" partName="IO.h" path="C:/Users/Daniel/workspace/FreeRTOSTC1797/src/Dave/IO/IO.h" title="IO.h" tooltip="FreeRTOSTC1797/src/Dave/IO/IO.h" workbook="DefaultEditorWorkbook">
+								<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOSTC1797/src/Dave/IO/IO.h"/>
+								<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="77465" selectionTopPixel="33902"/>
+							</editor>
+							<editor id="org.eclipse.cdt.ui.editor.CEditor" name="flash.c" partName="flash.c" path="C:/Users/Daniel/workspace/FreeRTOSTC1797/src/Common_Demo_Source/flash.c" title="flash.c" tooltip="FreeRTOSTC1797/src/Common_Demo_Source/flash.c" workbook="DefaultEditorWorkbook">
+								<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOSTC1797/src/Common_Demo_Source/flash.c"/>
+								<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5978" selectionTopPixel="2929"/>
+							</editor>
+							<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Dave.h" partName="Dave.h" path="C:/Users/Daniel/workspace/FreeRTOSTC1797/src/Dave/Dave.h" title="Dave.h" tooltip="FreeRTOSTC1797/src/Dave/Dave.h" workbook="DefaultEditorWorkbook">
+								<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOSTC1797/src/Dave/Dave.h"/>
+								<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="204" selectionTopPixel="462"/>
+							</editor>
+							<editor focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="tasks.c" partName="tasks.c" path="C:/Users/Daniel/workspace/FreeRTOSTC1797/src/FreeRTOS_Source/tasks.c" title="tasks.c" tooltip="FreeRTOSTC1797/src/FreeRTOS_Source/tasks.c" workbook="DefaultEditorWorkbook">
+								<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOSTC1797/src/FreeRTOS_Source/tasks.c"/>
+								<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="89388" selectionTopPixel="58190"/>
+							</editor>
+							<editor id="org.eclipse.cdt.ui.editor.CEditor" name="FreeRTOS.h" partName="FreeRTOS.h" path="C:/Users/Daniel/workspace/FreeRTOSTC1797/src/FreeRTOS_Source/include/FreeRTOS.h" title="FreeRTOS.h" tooltip="FreeRTOSTC1797/src/FreeRTOS_Source/include/FreeRTOS.h" workbook="DefaultEditorWorkbook">
+								<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOSTC1797/src/FreeRTOS_Source/include/FreeRTOS.h"/>
+								<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="24344" selectionTopPixel="16170"/>
+							</editor>
+							<editor id="org.eclipse.cdt.ui.editor.CEditor" name="portmacro.h" partName="portmacro.h" path="C:/Users/Daniel/workspace/FreeRTOSTC1797/src/FreeRTOS_Source/portable/GCC/TriCore_1782/portmacro.h" title="portmacro.h" tooltip="FreeRTOSTC1797/src/FreeRTOS_Source/portable/GCC/TriCore_1782/portmacro.h" workbook="DefaultEditorWorkbook">
+								<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOSTC1797/src/FreeRTOS_Source/portable/GCC/TriCore_1782/portmacro.h"/>
+								<editorState selectionHorizontalPixel="212" selectionLength="0" selectionOffset="4887" selectionTopPixel="2310"/>
+							</editor>
+							<editor id="org.eclipse.cdt.ui.editor.CEditor" name="FreeRTOSConfig.h" partName="FreeRTOSConfig.h" path="C:/Users/Daniel/workspace/FreeRTOSTC1797/src/FreeRTOSConfig.h" title="FreeRTOSConfig.h" tooltip="FreeRTOSTC1797/src/FreeRTOSConfig.h" workbook="DefaultEditorWorkbook">
+								<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOSTC1797/src/FreeRTOSConfig.h"/>
+								<editorState selectionHorizontalPixel="49" selectionLength="18" selectionOffset="4945" selectionTopPixel="1936"/>
+							</editor>
+						</editors>
+						<views>
+							<view id="org.eclipse.team.ui.GenericHistoryView" partName="History">
+								<viewState/>
+							</view>
+							<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+								<viewState isPinned="false">
+									<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
+									<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+								</viewState>
+							</view>
+							<view id="com.pls.ude.eclipse.udeinterface.view:StdUDEProgWin.Target0.Controller0.Core.1" partName="C:\...\FreeRTOS_Source\tasks.c">
+								<viewState/>
+							</view>
+							<view id="com.pls.ude.eclipse.udeinterface.view:StdUDEProgWin.Target0.Controller0.Core.0" partName="C:\...\FreeRTOSTC1797\src\main.c">
+								<viewState/>
+							</view>
+							<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+								<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
+									<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="300" org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.priorityField="30" org.eclipse.ui.ide.resourceField="90"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+								</viewState>
+							</view>
+							<view id="com.pls.ude.eclipse.udeinterface.view:StdTargetManagerWin.WorkspaceManager.0" partName="Target Browser">
+								<viewState/>
+							</view>
+							<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+								<viewState/>
+							</view>
+							<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+								<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+							</view>
+							<view id="com.pls.ude.eclipse.udeinterface.view:StdUDEMessageWin.WorkspaceManager.0" partName="Message View">
+								<viewState/>
+							</view>
+							<view id="com.pls.ude.eclipse.udeinterface.view:StdUDESymbolExplWin.Target0.Controller0.Core.0" partName="Core Symbols">
+								<viewState/>
+							</view>
+							<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+								<viewState/>
+							</view>
+							<view id="org.eclipse.cdt.make.ui.views.MakeView" partName="Make Target">
+								<viewState/>
+							</view>
+							<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+								<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+									<expanded>
+										<category IMemento.internal.id="Errors (1 item)"/>
+										<category IMemento.internal.id="Warnings"/>
+										<category IMemento.internal.id="Errors"/>
+									</expanded>
+									<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="195" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+									<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+								</viewState>
+							</view>
+							<view id="org.eclipse.cdt.ui.callHierarchy" partName="Call Hierarchy">
+								<viewState showFilesInLabels="false" variableFilter="false"/>
+							</view>
+							<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+								<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
+									<customFilters userDefinedPatternsEnabled="false">
+										<xmlDefinedFilters>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+											<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsConnections" isEnabled="true"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsTempFiles" isEnabled="true"/>
+											<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+											<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+										</xmlDefinedFilters>
+									</customFilters>
+								</viewState>
+							</view>
+							<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+								<viewState/>
+							</view>
+							<view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List">
+								<viewState linkWithEditor="true" presentation="org.eclipse.mylyn.tasks.ui.categorized">
+									<sorter groupBy="CATEGORY_QUERY">
+										<sorter>
+											<sort0 sortDirection="1" sortKey="PRIORITY"/>
+											<sort1 sortDirection="1" sortKey="RANK"/>
+											<sort2 sortDirection="1" sortKey="DATE_CREATED"/>
+											<sort3 sortDirection="1" sortKey="NONE"/>
+											<sort4 sortDirection="1" sortKey="NONE"/>
+											<sort5 sortDirection="1" sortKey="NONE"/>
+											<sort6 sortDirection="1" sortKey="NONE"/>
+											<sort7 sortDirection="1" sortKey="NONE"/>
+										</sorter>
+									</sorter>
+									<filteredTreeFindHistory/>
+								</viewState>
+							</view>
+						</views>
+						<perspectives activePerspective="com.pls.ude.eclipse.perspective">
+							<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+								<descriptor descriptor="com.rt.hightec.framework.buildsystem.perspective.hightec" id="&lt;HighTec&gt;" label="&lt;HighTec&gt;"/>
+								<alwaysOnActionSet id="org.eclipse.egit.ui.navigation"/>
+								<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+								<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+								<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+								<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+								<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+								<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+								<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+								<alwaysOnActionSet id="org.eclipse.cdt.ui.NavigationActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.cdt.ui.OpenActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.cdt.ui.CodingActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+								<alwaysOnActionSet id="com.rt.hightec.framework.buildsystem.actionset.build"/>
+								<alwaysOnActionSet id="com.rt.hightec.dave.project.start"/>
+								<alwaysOnActionSet id="com.rt.hightec.modeling.linker.core.action.set"/>
+								<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+								<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+								<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+								<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+								<show_view_action id="org.eclipse.ui.views.TaskList"/>
+								<show_view_action id="org.eclipse.cdt.ui.includeBrowser"/>
+								<new_wizard_action id="com.rt.hightec.buildsystem.tricore.new.ui.wizards.Tricore.RAMROMProjcetWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewClassCreationWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFileCreationWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFolderCreationWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewHeaderFileCreationWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFileCreationWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFolderCreationWizard"/>
+								<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+								<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+								<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+								<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+								<view id="org.eclipse.ui.views.ProblemView"/>
+								<view id="org.eclipse.ui.views.TaskList"/>
+								<view id="org.eclipse.ui.views.PropertySheet"/>
+								<view id="org.eclipse.ui.console.ConsoleView"/>
+								<view id="org.eclipse.search.ui.views.SearchView"/>
+								<fastViewBars/>
+								<layout>
+									<mainWindow>
+										<info folder="true" part="topLeft">
+											<folder activePageID="com.rt.hightec.framework.buildsystem.project.explorer" appearance="2" expanded="2">
+												<page content="com.rt.hightec.framework.buildsystem.project.explorer" label="LabelNotFound"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+													<part id="0"/>
+												</presentation>
+											</folder>
+										</info>
+										<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="topLeft">
+											<folder appearance="2" expanded="2">
+												<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+												<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+												<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+											</folder>
+										</info>
+										<info part="org.eclipse.ui.editorss" ratio="0.19542947" ratioLeft="248" ratioRight="1021" relationship="2" relative="topLeft"/>
+										<info folder="true" part="bottom" ratio="0.66358024" ratioLeft="645" ratioRight="327" relationship="4" relative="org.eclipse.ui.editorss">
+											<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+												<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+												<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+												<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+												<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+												<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+												<page content="com.pls.ude.eclipse.udeinterface.view:StdUDEMessageWin.WorkspaceManager.0" label="LabelNotFound"/>
+												<page content="com.pls.ude.eclipse.udeinterface.view:StdTargetManagerWin.WorkspaceManager.0" label="LabelNotFound"/>
+												<page content="com.pls.ude.eclipse.udeinterface.view:StdUDESymbolExplWin.Target0.Controller0.Core.0" label="LabelNotFound"/>
+												<page content="com.pls.ude.eclipse.welcomeview" label="LabelNotFound"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+													<part id="0"/>
+													<part id="1"/>
+													<part id="2"/>
+													<part id="3"/>
+													<part id="4"/>
+												</presentation>
+											</folder>
+										</info>
+									</mainWindow>
+								</layout>
+							</perspective>
+							<perspective editorAreaTrimState="0" editorAreaVisible="1" fixed="0" version="0.016">
+								<descriptor class="com.pls.ude.eclipse.Perspective" id="com.pls.ude.eclipse.perspective" label="UDE Perspective"/>
+								<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+								<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+								<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+								<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+								<alwaysOffActionSet id="com.rt.hightec.dave.project.start"/>
+								<alwaysOffActionSet id="com.rt.hightec.framework.buildsystem.actionset.build"/>
+								<alwaysOffActionSet id="com.rt.hightec.modeling.linker.core.action.set"/>
+								<alwaysOffActionSet id="org.eclipse.ant.ui.actionSet.presentation"/>
+								<alwaysOffActionSet id="org.eclipse.cdt.debug.ui.debugActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.cdt.debug.ui.reverseDebuggingActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.cdt.debug.ui.tracepointActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.cdt.debug.ui.debugViewLayoutActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.cdt.dsf.debug.ui.updateModes"/>
+								<alwaysOffActionSet id="org.eclipse.mylyn.cdt.ui.actionSet"/>
+								<alwaysOffActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.debug.ui.profileActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.egit.ui.gitaction"/>
+								<alwaysOffActionSet id="org.eclipse.egit.ui.navigation"/>
+								<alwaysOffActionSet id="org.eclipse.gmf.runtime.diagram.ui.DiagramActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.jdt.ui.text.java.actionSet.presentation"/>
+								<alwaysOffActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.jdt.ui.A_OpenActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.jdt.ui.CodingActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.jdt.ui.SearchActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+								<alwaysOffActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+								<alwaysOffActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+								<alwaysOffActionSet id="org.eclipse.mylyn.tasks.ui.navigation.additions"/>
+								<alwaysOffActionSet id="org.eclipse.pde.ui.SearchActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.team.cvs.ui.CVSActionSet"/>
+								<alwaysOffActionSet id="org.eclipse.team.ui.actionSet"/>
+								<alwaysOffActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+								<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+								<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+								<view id="com.pls.ude.eclipse.udeinterface.view:StdUDEMessageWin.WorkspaceManager.0"/>
+								<view id="com.pls.ude.eclipse.udeinterface.view:StdTargetManagerWin.WorkspaceManager.0"/>
+								<view id="com.pls.ude.eclipse.udeinterface.view:StdUDESymbolExplWin.Target0.Controller0.Core.0"/>
+								<view id="com.pls.ude.eclipse.udeinterface.view:StdUDEProgWin.Target0.Controller0.Core.0"/>
+								<fastViewBars/>
+								<layout>
+									<mainWindow>
+										<info folder="true" part="ude.views.folder.top">
+											<folder appearance="2" expanded="2"/>
+										</info>
+										<info folder="true" part="stickyFolderRight" ratio="0.7493976" ratioLeft="933" ratioRight="312" relationship="2" relative="ude.views.folder.top">
+											<folder appearance="2" expanded="2">
+												<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+												<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+												<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+											</folder>
+										</info>
+										<info folder="true" part="ude.views.folder.left" ratio="0.2" ratioLeft="131" ratioRight="524" relationship="4" relative="ude.views.folder.top">
+											<folder activePageID="com.pls.ude.eclipse.udeinterface.view:StdTargetManagerWin.WorkspaceManager.0" appearance="2" expanded="2">
+												<page content="com.pls.ude.eclipse.udeinterface.view:StdTargetManagerWin.WorkspaceManager.0" label="Target Browser"/>
+												<page content="com.pls.ude.eclipse.udeinterface.view:StdUDESymbolExplWin.Target0.Controller0.Core.0" label="Core Symbols"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+													<part id="0"/>
+													<part id="1"/>
+												</presentation>
+											</folder>
+										</info>
+										<info folder="true" part="ude.views.folder.bottom" ratio="0.7496183" ratioLeft="491" ratioRight="164" relationship="4" relative="ude.views.folder.left">
+											<folder activePageID="com.pls.ude.eclipse.udeinterface.view:StdUDEMessageWin.WorkspaceManager.0" appearance="2" expanded="2">
+												<page content="com.pls.ude.eclipse.udeinterface.view:StdUDEMessageWin.WorkspaceManager.0" label="Message View"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+													<part id="0"/>
+												</presentation>
+											</folder>
+										</info>
+										<info part="org.eclipse.ui.editorss" ratio="0.2" ratioLeft="249" ratioRight="996" relationship="2" relative="ude.views.folder.left"/>
+										<info folder="true" part="ude.views.folder.center" ratio="0.49959838" ratioLeft="622" ratioRight="623" relationship="2" relative="org.eclipse.ui.editorss">
+											<folder activePageID="com.pls.ude.eclipse.udeinterface.view:StdUDEProgWin.Target0.Controller0.Core.0" appearance="2" expanded="2">
+												<page content="com.pls.ude.eclipse.udeinterface.view:StdUDEProgWin.Target0.Controller0.Core.0" label="C:\...\FreeRTOSTC1797\src\main.c"/>
+												<page content="com.pls.ude.eclipse.udeinterface.view:StdUDEProgWin.Target0.Controller0.Core.1" label="LabelNotFound"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+													<part id="0"/>
+												</presentation>
+											</folder>
+										</info>
+										<info folder="true" part="ude.views.folder.right" ratio="0.74959874" ratioLeft="467" ratioRight="156" relationship="2" relative="ude.views.folder.center">
+											<folder appearance="2" expanded="2"/>
+										</info>
+									</mainWindow>
+								</layout>
+							</perspective>
+							<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+								<descriptor class="org.eclipse.cdt.internal.ui.CPerspectiveFactory" id="org.eclipse.cdt.ui.CPerspective" label="C/C++"/>
+								<alwaysOnActionSet id="org.eclipse.egit.ui.navigation"/>
+								<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+								<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+								<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+								<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+								<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+								<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+								<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+								<alwaysOnActionSet id="org.eclipse.cdt.ui.SearchActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.cdt.ui.CElementCreationActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.cdt.make.ui.makeTargetActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.cdt.ui.buildConfigActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.cdt.ui.NavigationActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.cdt.ui.OpenActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.cdt.ui.CodingActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+								<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+								<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+								<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+								<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+								<show_view_action id="org.eclipse.cdt.ui.CView"/>
+								<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+								<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+								<show_view_action id="org.eclipse.ui.views.TaskList"/>
+								<show_view_action id="org.eclipse.cdt.codan.internal.ui.views.ProblemDetails"/>
+								<show_view_action id="org.eclipse.cdt.make.ui.views.MakeView"/>
+								<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+								<show_view_action id="org.eclipse.cdt.ui.includeBrowser"/>
+								<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.ConvertToMakeWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewMakeFromExisting"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewCWizard1"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewCWizard2"/>
+								<new_wizard_action id="org.eclipse.linuxtools.cdt.autotools.ui.wizards.conversionWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFolderCreationWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFolderCreationWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFileCreationWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewHeaderFileCreationWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFileCreationWizard"/>
+								<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewClassCreationWizard"/>
+								<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
+								<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+								<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+								<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+								<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+								<view id="org.eclipse.ui.views.ProblemView"/>
+								<view id="org.eclipse.ui.views.TaskList"/>
+								<view id="org.eclipse.ui.console.ConsoleView"/>
+								<view id="org.eclipse.ui.views.PropertySheet"/>
+								<view id="org.eclipse.search.ui.views.SearchView"/>
+								<view id="org.eclipse.cdt.ui.callHierarchy"/>
+								<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+								<view id="org.eclipse.ui.views.ContentOutline"/>
+								<fastViewBars>
+									<fastViewBar fastViewLocation="131072" id="topRight" orientation="512" selectedTabId="org.eclipse.ui.views.ContentOutline" style="0">
+										<fastViews>
+											<view id="org.eclipse.cdt.make.ui.views.MakeView" ratio="0.3"/>
+											<view id="org.eclipse.mylyn.tasks.ui.views.tasks" ratio="0.3"/>
+										</fastViews>
+									</fastViewBar>
+								</fastViewBars>
+								<layout>
+									<mainWindow>
+										<info folder="true" part="topLeft">
+											<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+												<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+												<page content="org.eclipse.cdt.ui.CView" label="LabelNotFound"/>
+												<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+												<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+													<part id="0"/>
+												</presentation>
+											</folder>
+										</info>
+										<info folder="true" part="org.eclipse.ui.internal.ViewStack@6a6186" ratio="0.84541065" ratioLeft="1050" ratioRight="192" relationship="2" relative="topLeft">
+											<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+												<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+													<part id="0"/>
+												</presentation>
+											</folder>
+										</info>
+										<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="954" ratioRight="318" relationship="2" relative="topLeft">
+											<folder appearance="2" expanded="2">
+												<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+												<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+												<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+											</folder>
+										</info>
+										<info part="org.eclipse.ui.editorss" ratio="0.19162641" ratioLeft="238" ratioRight="1004" relationship="2" relative="topLeft"/>
+										<info folder="true" part="bottom" ratio="0.6733129" ratioLeft="439" ratioRight="213" relationship="4" relative="org.eclipse.ui.editorss">
+											<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+												<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+												<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+												<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+												<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+												<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+												<page content="org.eclipse.cdt.ui.callHierarchy" label="Call Hierarchy"/>
+												<page content="com.pls.ude.eclipse.welcomeview" label="LabelNotFound"/>
+												<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+													<part id="0"/>
+													<part id="1"/>
+													<part id="2"/>
+													<part id="3"/>
+													<part id="4"/>
+													<part id="5"/>
+												</presentation>
+											</folder>
+										</info>
+										<info folder="true" part="topRight" ratio="0.73523206" ratioLeft="697" ratioRight="251" relationship="2" relative="org.eclipse.ui.editorss">
+											<folder appearance="2" expanded="2">
+												<page content="org.eclipse.cdt.make.ui.views.MakeView" label="LabelNotFound"/>
+												<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+											</folder>
+										</info>
+									</mainWindow>
+								</layout>
+							</perspective>
+							<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+								<descriptor class="org.eclipse.egit.ui.GitRepositoriesPerspectiveFactory" id="org.eclipse.egit.ui.GitRepositoryExploring" label="Git Repository Exploring"/>
+								<alwaysOnActionSet id="org.eclipse.egit.ui.navigation"/>
+								<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+								<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+								<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+								<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+								<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+								<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+								<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+								<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+								<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+								<show_view_action id="org.eclipse.team.ui.GenericHistoryView"/>
+								<show_view_action id="org.eclipse.team.sync.views.SynchronizeView"/>
+								<show_view_action id="org.eclipse.egit.ui.StagingView"/>
+								<show_view_action id="org.eclipse.egit.ui.ReflogView"/>
+								<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+								<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+								<view id="org.eclipse.ui.views.PropertySheet"/>
+								<view id="org.eclipse.team.ui.GenericHistoryView"/>
+								<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+								<fastViewBars/>
+								<layout>
+									<mainWindow>
+										<info folder="true" part="org.eclipse.ui.internal.ViewStack@efb2ca">
+											<folder appearance="2" expanded="2">
+												<page content="org.eclipse.egit.ui.RepositoriesView" label="LabelNotFound"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+											</folder>
+										</info>
+										<info folder="true" part="stickyFolderRight" ratio="0.7493976" ratioLeft="933" ratioRight="312" relationship="2" relative="org.eclipse.ui.internal.ViewStack@efb2ca">
+											<folder appearance="2" expanded="2">
+												<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+												<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+												<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+											</folder>
+										</info>
+										<info part="org.eclipse.ui.editorss" ratio="0.49959838" ratioLeft="622" ratioRight="623" relationship="2" relative="org.eclipse.ui.internal.ViewStack@efb2ca"/>
+										<info folder="true" part="org.eclipse.ui.internal.ViewStack@c324ac" ratio="0.49921012" ratioLeft="316" ratioRight="317" relationship="4" relative="org.eclipse.ui.editorss">
+											<folder activePageID="org.eclipse.team.ui.GenericHistoryView" appearance="2" expanded="2">
+												<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+												<page content="org.eclipse.team.ui.GenericHistoryView" label="History"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+													<part id="0"/>
+													<part id="1"/>
+												</presentation>
+											</folder>
+										</info>
+										<info folder="true" part="org.eclipse.ui.internal.ViewStack@fd4c9f" ratio="0.69984204" ratioLeft="443" ratioRight="190" relationship="4" relative="org.eclipse.ui.internal.ViewStack@efb2ca">
+											<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+												<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+												<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+													<part id="0"/>
+												</presentation>
+											</folder>
+										</info>
+									</mainWindow>
+								</layout>
+							</perspective>
+						</perspectives>
+						<workingSets/>
+						<navigationHistory>
+							<editors>
+								<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOSTC1797/src/main.c"/>
+								<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOSTC1797/src/Dave/IO/IO.c"/>
+								<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOSTC1797/src/Dave/Dave.h"/>
+								<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOSTC1797/src/Dave/Dave.c"/>
+								<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOSTC1797/src/Dave/IO/IO.h"/>
+								<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOSTC1797/src/Common_Demo_Source/flash.c"/>
+								<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOSTC1797/src/FreeRTOS_Source/tasks.c"/>
+							</editors>
+							<item historyLabel="IO.c" index="1">
+								<position info="not_deleted" x="5440" y="0"/>
+							</item>
+							<item historyLabel="Dave.h" index="2">
+								<position info="not_deleted" x="6182" y="18"/>
+							</item>
+							<item historyLabel="IO.c" index="1">
+								<position info="not_deleted" x="5531" y="0"/>
+							</item>
+							<item historyLabel="Dave.h" index="2">
+								<position info="not_deleted" x="4982" y="16"/>
+							</item>
+							<item historyLabel="IO.c" index="1">
+								<position info="not_deleted" x="5827" y="0"/>
+							</item>
+							<item historyLabel="Dave.h" index="2">
+								<position info="not_deleted" x="4972" y="0"/>
+							</item>
+							<item historyLabel="Dave.c" index="3">
+								<position info="not_deleted" x="78" y="0"/>
+							</item>
+							<item historyLabel="main.c" index="0">
+								<position info="not_deleted" x="10427" y="0"/>
+							</item>
+							<item historyLabel="IO.c" index="1">
+								<position info="not_deleted" x="0" y="0"/>
+							</item>
+							<item historyLabel="IO.h" index="4">
+								<position info="not_deleted" x="0" y="0"/>
+							</item>
+							<item historyLabel="IO.h" index="4">
+								<position info="not_deleted" x="75354" y="15"/>
+							</item>
+							<item historyLabel="IO.h" index="4">
+								<position info="not_deleted" x="77465" y="13"/>
+							</item>
+							<item historyLabel="main.c" index="0">
+								<position info="not_deleted" x="11152" y="0"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="4981" y="19"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="5226" y="0"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="6392" y="0"/>
+							</item>
+							<item historyLabel="IO.h" index="4">
+								<position info="not_deleted" x="77465" y="13"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="4374" y="0"/>
+							</item>
+							<item historyLabel="Dave.h" index="2">
+								<position info="not_deleted" x="204" y="0"/>
+							</item>
+							<item historyLabel="main.c" index="0">
+								<position info="not_deleted" x="7271" y="0"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="4374" y="0"/>
+							</item>
+							<item historyLabel="IO.h" index="4">
+								<position info="not_deleted" x="77465" y="13"/>
+							</item>
+							<item historyLabel="IO.c" index="1">
+								<position info="not_deleted" x="0" y="0"/>
+							</item>
+							<item historyLabel="tasks.c" index="6">
+								<position info="not_deleted" x="95428" y="0"/>
+							</item>
+							<item historyLabel="main.c" index="0">
+								<position info="not_deleted" x="7271" y="0"/>
+							</item>
+							<item historyLabel="main.c" index="0">
+								<position info="not_deleted" x="7472" y="0"/>
+							</item>
+							<item historyLabel="main.c" index="0">
+								<position info="not_deleted" x="11156" y="0"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="4981" y="19"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="5132" y="0"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="5063" y="8"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="5143" y="0"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="5220" y="0"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="5381" y="48"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="6335" y="14"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="5457" y="14"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="6128" y="14"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="6197" y="14"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="6335" y="14"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="6335" y="14"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="4434" y="0"/>
+							</item>
+							<item historyLabel="flash.c" index="5">
+								<position info="not_deleted" x="5978" y="0"/>
+							</item>
+							<item historyLabel="tasks.c" index="6">
+								<position info="not_deleted" x="95428" y="0"/>
+							</item>
+							<item historyLabel="tasks.c" index="6">
+								<position info="not_deleted" x="89280" y="0"/>
+							</item>
+							<item historyLabel="tasks.c" index="6">
+								<position info="not_deleted" x="95241" y="0"/>
+							</item>
+							<item historyLabel="tasks.c" index="6">
+								<position info="not_deleted" x="87769" y="0"/>
+							</item>
+							<item active="true" historyLabel="tasks.c" index="6">
+								<position info="not_deleted" x="89280" y="0"/>
+							</item>
+						</navigationHistory>
+						<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+					</page>
+					<workbenchWindowAdvisor/>
+					<actionBarAdvisor/>
+					<trimLayout>
+						<trimArea IMemento.internal.id="131072">
+							<trimItem IMemento.internal.id="topRight"/>
+							<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
+						</trimArea>
+						<trimArea IMemento.internal.id="128">
+							<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+							<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+						</trimArea>
+						<trimArea IMemento.internal.id="1024">
+							<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+							<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+							<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+						</trimArea>
+					</trimLayout>
+				</UDEPersistance></UDEWorkbenchSettings></EclipsePlacementRoot><StdTargetManagerWin type="key"><OPEN_VIEW type="key"><FrameCreated type="string">06.09.2014 20:01:39:214</FrameCreated><ViewSrv type="key"><TargetBrowserView type="key"><SplitterRatio type="int">100</SplitterRatio></TargetBrowserView></ViewSrv><EclipseFrameMode type="int">139264</EclipseFrameMode><EclipseFrameSaveIndex type="int">4294967295</EclipseFrameSaveIndex><FrameUserTitle type="string"></FrameUserTitle><CommonVisibilityGroup type="flag">0</CommonVisibilityGroup><VisibilityGroupsCnt type="int">0</VisibilityGroupsCnt></OPEN_VIEW><SAVED_VIEW_OBJS type="int">1</SAVED_VIEW_OBJS><SAVED_VIEW type="int">0</SAVED_VIEW></StdTargetManagerWin><StdUDEMessageWin type="key"><OPEN_VIEW type="key"><FrameCreated type="string">06.09.2014 20:01:38:901</FrameCreated><ViewSrv type="key"><LogWin type="key"><Index type="key"><Width type="bin" size="8">MgAAAA==</Width><Visible type="bin" size="8">AQAAAA==</Visible></Index><Type type="key"><Width type="bin" size="8">ZAAAAA==</Width><Visible type="bin" size="8">AQAAAA==</Visible></Type><Time type="key"><Width type="bin" size="8">ZAAAAA==</Width><Visible type="bin" size="8">AQAAAA==</Visible></Time><Src type="key"><Width type="bin" size="8">lgAAAA==</Width><Visible type="bin" size="8">AQAAAA==</Visible></Src><Msg type="key"><Width type="bin" size="8">6AMAAA==</Width><Visible type="bin" size="8">AQAAAA==</Visible></Msg></LogWin><CmdWin type="key"><History type="key"/></CmdWin></ViewSrv><EclipseFrameMode type="int">151552</EclipseFrameMode><EclipseFrameSaveIndex type="int">4294967295</EclipseFrameSaveIndex><FrameUserTitle type="string"></FrameUserTitle><CommonVisibilityGroup type="flag">0</CommonVisibilityGroup><VisibilityGroupsCnt type="int">0</VisibilityGroupsCnt></OPEN_VIEW><SAVED_VIEW_OBJS type="int">1</SAVED_VIEW_OBJS><SAVED_VIEW type="int">0</SAVED_VIEW></StdUDEMessageWin><StdUDECmdWin type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></StdUDECmdWin><UDETraceWin2 type="key"/><StdUDEWspHTMLView type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></StdUDEWspHTMLView><SelectedPrinter type="string">Enviar a OneNote 2013</SelectedPrinter><TraceFramework type="key"/></MainFrame><INI_SECTION type="key"><Macro type="key"><MacroLib type="string">..\..\..\..\..\Program Files\pls\UDE 4.0\StdLibrary.mso</MacroLib></Macro><Loader type="key"><LOADER_REGKEY_WSP type="string">{c2801635-1baa-495e-85e9-f613927c9a90}</LOADER_REGKEY_WSP></Loader></INI_SECTION><AddOns type="key"><UDE.Script type="key"><MacroGuiEntries type="key"><LastScriptFilePath type="string">..\..\..\..\Public\Documents\pls\UDE 4.0</LastScriptFilePath><Macro_06_09_14_22_07_26_0 type="key"><ScriptDescription type="string">The script contains a collection of macros to save memory content into different file formats 
+and fill target memory ranges</ScriptDescription><ScriptPath type="string">V:\UDE\AddOns\Macro\MacroLibrary\StdMacros1.dsm</ScriptPath><ScriptSource type="string">'	
+'	$Header: /Ude/AddOns/Macro/MacroLibrary/StdMacros.dsm 3     30.04.04 9:34 Weisses $
+'_______________________________________________________
+'
+'	universal debug engine
+'	 
+'	Standard command line macros - part 1 
+'
+'	pls Development Tools 1999-2004
+'
+'   28.04.04    SW     correction for UDE 1.10
+'   03.06.03    SW     initial version
+'_______________________________________________________
+
+'_______________________________________________________
+'
+'	UnAss command line function
+' 
+'	generates disassembly file 
+'
+'	command line UnAss output-file range1 [range2] [range3] .....
+'	range description:
+'		C:&lt;startaddress&gt;,&lt;length&gt; or	- code
+'		DB:&lt;startaddress&gt;,&lt;length&gt; or	- data byte
+'		DW:&lt;startaddress&gt;,&lt;length&gt; or	- data word
+'		DD:&lt;startaddress&gt;,&lt;length&gt; or	- data dword
+'_______________________________________________________
+
+Sub UnAss(File,ParameterObj)
+
+	set debugger = workspace.Coredebugger(0)
+	set DisASMObj = debugger.DisASMObj
+	If Not IsObject(ParameterObj) Then
+	  	MsgBox "Number of parameters wrong"
+		Exit Sub 		
+	End If
+	If IsNumeric(File) Then
+	  	MsgBox "File parameter wrong - " &amp; File
+		Exit Sub 		
+	End If
+	DisASMObj.OutputPath = CStr(File)
+	bRetVal = DisASMObj.CreateStream(True,"UDE Disassembler output of current Program",False)
+	If bRetVal = True Then
+		ParmeterCnt = ParameterObj.ParameterCount
+		If ParmeterCnt = 0 Then
+	  		MsgBox "Number of parameters wrong " &amp; ParmeterCnt
+			Exit Sub 		
+		End If
+		If ( ParmeterCnt Mod 3 ) &lt;&gt; 0 Then
+	  		MsgBox "Number of parameters wrong " &amp; ParmeterCnt
+			Exit Sub 		
+		End If
+		RangeCnt = ParmeterCnt/3
+		ParamIndex = 0
+		For Range = 0 To RangeCnt -1 
+			KindOfRange = CStr(ParameterObj.Parameter(ParamIndex)) 
+			KindOfRange = UCase(KindOfRange)
+			Address = CLng(ParameterObj.Parameter(ParamIndex +1))		
+			Length = CLng(ParameterObj.Parameter(ParamIndex +2))
+			ParamIndex = ParamIndex +3
+			If IsNumeric(KindOfRange) Then
+				If KindOfRange = 12 Then
+ 					DisASMObj.AddRange Address,Length,1
+				ElseIf KindOfRange = 219 Then
+ 					DisASMObj.AddRange Address,Length,2
+				ElseIf KindOfRange = 221 Then
+ 					DisASMObj.AddRange Address,Length,4
+				Else
+	  				MsgBox "Invalid range type " &amp; KindOfRange &amp;  "of range " &amp; Range +1
+					Exit Sub 		
+			 	End If
+			Else
+				If KindOfRange = "C" Then
+ 					DisASMObj.AddRange Address,Length,1
+				ElseIf KindOfRange = "DB" Then
+ 					DisASMObj.AddRange Address,Length,2
+				ElseIf KindOfRange = "DW" Then
+ 					DisASMObj.AddRange Address,Length,3
+				ElseIf KindOfRange = "DD" Then
+ 					DisASMObj.AddRange Address,Length,4
+				Else
+	  				MsgBox "Invalid range type " &amp; KindOfRange &amp;  "of range " &amp; Range +1
+					Exit Sub 		
+				End If
+			End If
+		Next
+		DisASMObj.HexFileModeFlag = False
+		DisASMObj.ListModeFlag = False
+		DisASMObj.WriteAllRanges(False)
+	End If
+
+End Sub
+
+'_______________________________________________________
+'
+'	SaveHEX command line function
+' 
+'	generates intel-HEX file 
+'
+'	command line SaveHex output-file range1 [range2] [range3] .....
+'	range description:
+'		&lt;startaddress&gt;,&lt;length&gt; 
+'_______________________________________________________
+
+Sub SaveHEX(File,ParameterObj)
+
+	set debugger = workspace.Coredebugger(0)
+	set DisASMObj = debugger.DisASMObj
+	If Not IsObject(ParameterObj) Then
+	  	MsgBox "Number of parameters wrong"
+		Exit Sub 		
+	End If
+	If IsNumeric(File) Then
+	  	MsgBox "File parameter wrong - " &amp; File
+		Exit Sub 		
+	End If
+	DisASMObj.OutputPath = CStr(File)
+	bRetVal = DisASMObj.CreateStream(True,"UDE generated intel-Hex file of current Program",False)
+	If bRetVal = True Then
+		ParmeterCnt = ParameterObj.ParameterCount
+		If ParmeterCnt = 0 Then
+	  		MsgBox "Number of parameters wrong " &amp; ParmeterCnt
+			Exit Sub 		
+		End If
+		If ( ParmeterCnt Mod 2 ) &lt;&gt; 0 Then
+	  		MsgBox "Number of parameters wrong " &amp; ParmeterCnt
+			Exit Sub 		
+		End If
+		RangeCnt = ParmeterCnt/2
+		ParamIndex = 0
+		For Range = 0 To RangeCnt -1 
+			Address = CLng(ParameterObj.Parameter(ParamIndex))		
+			Length = CLng(ParameterObj.Parameter(ParamIndex +1))
+			ParamIndex = ParamIndex +2
+ 			DisASMObj.AddRange Address,Length,0
+		Next
+		DisASMObj.HexFileModeFlag = True
+		DisASMObj.WriteAllRanges(False)
+	End If
+
+End Sub
+
+'_______________________________________________________
+'
+'	FillByte command line function
+' 
+'	fills memory range with byte pattern 
+'
+'	command line FillByte range1,pattern1 [range2,pattern2] [range3,pattern3] .....
+'	range description:
+'		&lt;startaddress&gt;,&lt;length&gt; 
+'_______________________________________________________
+
+Sub FillByte(ParameterObj)
+
+	set debugger = workspace.Coredebugger(0)
+	set DisASMObj = debugger.DisASMObj
+	If Not IsObject(ParameterObj) Then
+	  	MsgBox "Number of parameters wrong"
+		Exit Sub 		
+	End If
+	ParmeterCnt = ParameterObj.ParameterCount
+	If ParmeterCnt = 0 Then
+	  	MsgBox "Number of parameters wrong " &amp; ParmeterCnt
+		Exit Sub 		
+	End If
+	If ( ParmeterCnt Mod 3 ) &lt;&gt; 0 Then
+	  	MsgBox "Number of parameters wrong " &amp; ParmeterCnt
+		Exit Sub 		
+	End If
+	RangeCnt = ParmeterCnt/3
+	ParamIndex = 0
+	set udearrayobj = debugger.ByteArrayObj(1)
+	For Range = 0 To RangeCnt -1 
+		Address = CLng(ParameterObj.Parameter(ParamIndex))		
+		Length = CLng(ParameterObj.Parameter(ParamIndex +1))
+		Pattern = CLng(ParameterObj.Parameter(ParamIndex +2))
+		ParamIndex = ParamIndex +3
+		udearrayobj.Resize(Length)
+		udearrayobj.Fill(Pattern)
+		debugger.Write Address,udearrayobj
+	Next
+
+End Sub
+
+'_______________________________________________________
+'
+'	FillWord command line function
+' 
+'	fills memory range with word pattern 
+'
+'	command line FillWord range1,pattern1 [range2,pattern2] [range3,pattern3] .....
+'	range description:
+'		&lt;startaddress&gt;,&lt;length&gt; 
+'_______________________________________________________
+
+Sub FillWord(ParameterObj)
+
+	set debugger = workspace.Coredebugger(0)
+	set DisASMObj = debugger.DisASMObj
+	If Not IsObject(ParameterObj) Then
+	  	MsgBox "Number of parameters wrong"
+		Exit Sub 		
+	End If
+	ParmeterCnt = ParameterObj.ParameterCount
+	If ParmeterCnt = 0 Then
+	  	MsgBox "Number of parameters wrong " &amp; ParmeterCnt
+		Exit Sub 		
+	End If
+	If ( ParmeterCnt Mod 3 ) &lt;&gt; 0 Then
+	  	MsgBox "Number of parameters wrong " &amp; ParmeterCnt
+		Exit Sub 		
+	End If
+	RangeCnt = ParmeterCnt/3
+	ParamIndex = 0
+	set udearrayobj = debugger.WordArrayObj(1)
+	For Range = 0 To RangeCnt -1 
+		Address = CLng(ParameterObj.Parameter(ParamIndex))		
+		Length = CLng(ParameterObj.Parameter(ParamIndex +1)/2)
+		Pattern = CLng(ParameterObj.Parameter(ParamIndex +2))
+		ParamIndex = ParamIndex +3
+		udearrayobj.Resize(Length)
+		udearrayobj.Fill(Pattern)
+		debugger.Write Address,udearrayobj
+	Next
+
+End Sub
+
+'_______________________________________________________
+'
+'	FillDWord command line function
+' 
+'	fills memory range with dword pattern 
+'
+'	command line FillDWord range1,pattern1 [range2,pattern2] [range3,pattern3] .....
+'	range description:
+'		&lt;startaddress&gt;,&lt;length&gt; 
+'_______________________________________________________
+
+Sub FillDWord(ParameterObj)
+
+	set debugger = workspace.Coredebugger(0)
+	set DisASMObj = debugger.DisASMObj
+	If Not IsObject(ParameterObj) Then
+	  	MsgBox "Number of parameters wrong"
+		Exit Sub 		
+	End If
+	ParmeterCnt = ParameterObj.ParameterCount
+	If ParmeterCnt = 0 Then
+	  	MsgBox "Number of parameters wrong " &amp; ParmeterCnt
+		Exit Sub 		
+	End If
+	If ( ParmeterCnt Mod 3 ) &lt;&gt; 0 Then
+	  	MsgBox "Number of parameters wrong " &amp; ParmeterCnt
+		Exit Sub 		
+	End If
+	RangeCnt = ParmeterCnt/3
+	ParamIndex = 0
+	set udearrayobj = debugger.DWordArrayObj(1)
+	For Range = 0 To RangeCnt -1 
+		Address = CLng(ParameterObj.Parameter(ParamIndex))		
+		Length = CLng(ParameterObj.Parameter(ParamIndex +1)/4)
+		Pattern = CLng(ParameterObj.Parameter(ParamIndex +2))
+		ParamIndex = ParamIndex +3
+		udearrayobj.Resize(Length)
+		udearrayobj.Fill(Pattern)
+		debugger.Write Address,udearrayobj
+	Next
+
+End Sub</ScriptSource><ScriptArchitecture type="int">63</ScriptArchitecture><ScriptEngine type="string">VBScript</ScriptEngine><MacroFileTime type="string">24.11.2006 14:43:20:000</MacroFileTime><ScriptFromStg type="flag">1</ScriptFromStg><LocalComputerName type="string">WS_CORE_DUO</LocalComputerName><ExternalScriptPath type="string"></ExternalScriptPath><NextNodeName type="string">Macro_14_09_14_16_11_36_0</NextNodeName><UnAss type="key"><GUIEntry type="key"><MenuID type="int">10</MenuID><MenuString type="string">Execute UnAss ..</MenuString><ToolTipString type="string">Macro UnAss</ToolTipString><MessageString type="string">Execute macro UnAss</MessageString><DebugFlag type="flag">0</DebugFlag></GUIEntry><FuncParameterCnt type="int">2</FuncParameterCnt><GUIEntryDescription type="string"></GUIEntryDescription></UnAss><SaveHEX type="key"><GUIEntry type="key"><MenuID type="int">10</MenuID><MenuString type="string">Execute SaveHEX ..</MenuString><ToolTipString type="string">Macro SaveHEX</ToolTipString><MessageString type="string">Execute macro SaveHEX</MessageString><DebugFlag type="flag">0</DebugFlag></GUIEntry><FuncParameterCnt type="int">2</FuncParameterCnt><GUIEntryDescription type="string"></GUIEntryDescription></SaveHEX><FillByte type="key"><GUIEntry type="key"><MenuID type="int">10</MenuID><MenuString type="string">Execute FillByte ..</MenuString><ToolTipString type="string">Macro FillByte</ToolTipString><MessageString type="string">Execute macro FillByte</MessageString><DebugFlag type="flag">0</DebugFlag></GUIEntry><FuncParameterCnt type="int">1</FuncParameterCnt><GUIEntryDescription type="string"></GUIEntryDescription></FillByte><FillWord type="key"><GUIEntry type="key"><MenuID type="int">10</MenuID><MenuString type="string">Execute FillWord ..</MenuString><ToolTipString type="string">Macro FillWord</ToolTipString><MessageString type="string">Execute macro FillWord</MessageString><DebugFlag type="flag">0</DebugFlag></GUIEntry><FuncParameterCnt type="int">1</FuncParameterCnt><GUIEntryDescription type="string"></GUIEntryDescription></FillWord><FillDWord type="key"><GUIEntry type="key"><MenuID type="int">10</MenuID><MenuString type="string">Execute FillDWord ..</MenuString><ToolTipString type="string">Macro FillDWord</ToolTipString><MessageString type="string">Execute macro FillDWord</MessageString><DebugFlag type="flag">0</DebugFlag></GUIEntry><FuncParameterCnt type="int">1</FuncParameterCnt><GUIEntryDescription type="string"></GUIEntryDescription></FillDWord><NoOfFunctions type="int">5</NoOfFunctions></Macro_06_09_14_22_07_26_0></MacroGuiEntries><LastSelectedMacro type="string"></LastSelectedMacro></UDE.Script></AddOns><MultiCoreRunControl type="key"><NoOfRunCtrlGroups type="int">0</NoOfRunCtrlGroups></MultiCoreRunControl><Core type="key"><ViewSrv type="key"><TriCoreCpuWin type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></TriCoreCpuWin><StdUDESymbolExplWin type="key"><OPEN_VIEW type="key"><FrameCreated type="string">06.09.2014 20:01:39:480</FrameCreated><ViewSrv type="key"/><EclipseFrameMode type="int">139264</EclipseFrameMode><EclipseFrameSaveIndex type="int">4294967295</EclipseFrameSaveIndex><FrameUserTitle type="string"></FrameUserTitle><CommonVisibilityGroup type="flag">0</CommonVisibilityGroup><VisibilityGroupsCnt type="int">0</VisibilityGroupsCnt></OPEN_VIEW><SAVED_VIEW_OBJS type="int">1</SAVED_VIEW_OBJS><SAVED_VIEW type="int">0</SAVED_VIEW></StdUDESymbolExplWin><StdUDEProgWin type="key"><OPEN_VIEW00 type="key"><FrameCreated type="string">06.09.2014 20:01:48:106</FrameCreated><ViewSrv type="key"/><EclipseFrameMode type="int">135168</EclipseFrameMode><EclipseFrameSaveIndex type="int">4294967295</EclipseFrameSaveIndex><FrameUserTitle type="string"></FrameUserTitle><CommonVisibilityGroup type="flag">0</CommonVisibilityGroup><VisibilityGroupsCnt type="int">0</VisibilityGroupsCnt><SourceFile type="string">..\src\main.c</SourceFile><SourceFileInstFlag type="int">1</SourceFileInstFlag></OPEN_VIEW00><OPEN_VIEW01 type="key"><FrameCreated type="string">14.09.2014 14:42:46:376</FrameCreated><ViewSrv type="key"/><EclipseFrameMode type="int">135168</EclipseFrameMode><EclipseFrameSaveIndex type="int">4294967295</EclipseFrameSaveIndex><FrameUserTitle type="string"></FrameUserTitle><CommonVisibilityGroup type="flag">0</CommonVisibilityGroup><VisibilityGroupsCnt type="int">0</VisibilityGroupsCnt><SourceFile type="string">..\src\FreeRTOS_Source\tasks.c</SourceFile><SourceFileInstFlag type="int">2</SourceFileInstFlag></OPEN_VIEW01><OPEN_VIEW02 type="key"><FrameCreated type="string">24.08.2014 17:02:48:753</FrameCreated><ViewSrv type="key"><AnimateQueue type="key"/></ViewSrv><EclipseFrameMode type="int">135168</EclipseFrameMode><EclipseFrameSaveIndex type="int">4294967295</EclipseFrameSaveIndex><FrameUserTitle type="string"></FrameUserTitle><CommonVisibilityGroup type="flag">0</CommonVisibilityGroup><VisibilityGroupsCnt type="int">0</VisibilityGroupsCnt></OPEN_VIEW02><SAVED_VIEW_OBJS type="int">2</SAVED_VIEW_OBJS><SAVED_VIEW00 type="int">0</SAVED_VIEW00><SAVED_VIEW01 type="int">1</SAVED_VIEW01></StdUDEProgWin><StdUDESFRView type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></StdUDESFRView><StdUDELocalsWin type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></StdUDELocalsWin><StdUDEWatchWin type="key"><OPEN_VIEW00 type="key"><FrameCreated type="string">24.08.2014 17:03:33:736</FrameCreated><ViewSrv type="key"><TopIndex type="int">0</TopIndex><CaretIndex type="int">1</CaretIndex><Watches type="key"><IntegralFormatForValue1 type="int">3</IntegralFormatForValue1><IntegralFormatForValue2 type="int">3</IntegralFormatForValue2><ASCIIForValue1 type="int">0</ASCIIForValue1><ASCIIForValue2 type="int">0</ASCIIForValue2><FloatFormatForValue1 type="int">3</FloatFormatForValue1><FloatFormatForValue2 type="int">3</FloatFormatForValue2><Watch1 type="key"><Name type="string">uxTasksDeleted [C:\Users\Daniel\workspace\FreeRTOSTC1797\src\FreeRTOS_Source\tasks.c] @1</Name></Watch1></Watches></ViewSrv><EclipseFrameMode type="int">135168</EclipseFrameMode><EclipseFrameSaveIndex type="int">4294967295</EclipseFrameSaveIndex><FrameUserTitle type="string"></FrameUserTitle><CommonVisibilityGroup type="flag">0</CommonVisibilityGroup><VisibilityGroupsCnt type="int">0</VisibilityGroupsCnt></OPEN_VIEW00><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></StdUDEWatchWin><StdUDESimIOWin type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></StdUDESimIOWin><StdUDEHtmlDocWin type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></StdUDEHtmlDocWin><StdUDEGraphWin type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></StdUDEGraphWin><StdUDETimeSampleGraphWin type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></StdUDETimeSampleGraphWin><UDEProfilingWin type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></UDEProfilingWin><StdUDEMemWin type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></StdUDEMemWin><UDEStackWin type="key"><SAVED_VIEW_OBJS type="int">0</SAVED_VIEW_OBJS></UDEStackWin></ViewSrv><UDE.StdDbgSrv type="key"><INI_SECTION type="key"/><UDE.TriCoreArchSrv type="key"><UDE.TcCoreTargIntf type="key"><NewWorkspace type="flag">0</NewWorkspace><Ocds type="key"><TR0EVT.Susp type="flag">1</TR0EVT.Susp><TR0EVT.Bbm type="flag">0</TR0EVT.Bbm><TR0EVT.Action type="int">0</TR0EVT.Action><TR0EVT.Reserved type="flag">0</TR0EVT.Reserved><TR0EVT.DataAdr1 type="string">0x0</TR0EVT.DataAdr1><TR0EVT.DataAdr2 type="string">0x0</TR0EVT.DataAdr2><TR0EVT.bDataReadAdr1 type="flag">0</TR0EVT.bDataReadAdr1><TR0EVT.bDataReadAdr2 type="flag">0</TR0EVT.bDataReadAdr2><TR0EVT.bDataReadRange type="flag">0</TR0EVT.bDataReadRange><TR0EVT.bDataWriteAdr1 type="flag">0</TR0EVT.bDataWriteAdr1><TR0EVT.bDataWriteAdr2 type="flag">0</TR0EVT.bDataWriteAdr2><TR0EVT.bDataWriteRange type="flag">0</TR0EVT.bDataWriteRange><TR0EVT.CodeAdr1 type="string">0x0</TR0EVT.CodeAdr1><TR0EVT.CodeAdr2 type="string">0x0</TR0EVT.CodeAdr2><TR0EVT.bCodeAdr1 type="flag">0</TR0EVT.bCodeAdr1><TR0EVT.bCodeAdr2 type="flag">0</TR0EVT.bCodeAdr2><TR0EVT.bCodeRange type="flag">0</TR0EVT.bCodeRange><TR0EVT.Fct type="int">0</TR0EVT.Fct><TR0EVT.DataRangeLocked type="flag">0</TR0EVT.DataRangeLocked><TR0EVT.CodeRangeLocked type="flag">0</TR0EVT.CodeRangeLocked><TR0EVT.CprReserved type="flag">0</TR0EVT.CprReserved><TR0EVT.DprReserved type="flag">0</TR0EVT.DprReserved><TR1EVT.Susp type="flag">1</TR1EVT.Susp><TR1EVT.Bbm type="flag">0</TR1EVT.Bbm><TR1EVT.Action type="int">0</TR1EVT.Action><TR1EVT.Reserved type="flag">0</TR1EVT.Reserved><TR1EVT.DataAdr1 type="string">0x0</TR1EVT.DataAdr1><TR1EVT.DataAdr2 type="string">0x0</TR1EVT.DataAdr2><TR1EVT.bDataReadAdr1 type="flag">0</TR1EVT.bDataReadAdr1><TR1EVT.bDataReadAdr2 type="flag">0</TR1EVT.bDataReadAdr2><TR1EVT.bDataReadRange type="flag">0</TR1EVT.bDataReadRange><TR1EVT.bDataWriteAdr1 type="flag">0</TR1EVT.bDataWriteAdr1><TR1EVT.bDataWriteAdr2 type="flag">0</TR1EVT.bDataWriteAdr2><TR1EVT.bDataWriteRange type="flag">0</TR1EVT.bDataWriteRange><TR1EVT.CodeAdr1 type="string">0x0</TR1EVT.CodeAdr1><TR1EVT.CodeAdr2 type="string">0x0</TR1EVT.CodeAdr2><TR1EVT.bCodeAdr1 type="flag">0</TR1EVT.bCodeAdr1><TR1EVT.bCodeAdr2 type="flag">0</TR1EVT.bCodeAdr2><TR1EVT.bCodeRange type="flag">0</TR1EVT.bCodeRange><TR1EVT.Fct type="int">0</TR1EVT.Fct><TR1EVT.DataRangeLocked type="flag">0</TR1EVT.DataRangeLocked><TR1EVT.CodeRangeLocked type="flag">0</TR1EVT.CodeRangeLocked><TR1EVT.CprReserved type="flag">0</TR1EVT.CprReserved><TR1EVT.DprReserved type="flag">0</TR1EVT.DprReserved><EXEVT.Susp type="flag">1</EXEVT.Susp><EXEVT.Bbm type="flag">0</EXEVT.Bbm><EXEVT.Action type="int">0</EXEVT.Action><EXEVT.Reserved type="flag">0</EXEVT.Reserved><SWEVT.Susp type="flag">1</SWEVT.Susp><SWEVT.Bbm type="flag">1</SWEVT.Bbm><SWEVT.Action type="int">2</SWEVT.Action><SWEVT.Reserved type="flag">0</SWEVT.Reserved><CREVT.Susp type="flag">1</CREVT.Susp><CREVT.Bbm type="flag">0</CREVT.Bbm><CREVT.Action type="int">0</CREVT.Action><CREVT.Reserved type="flag">0</CREVT.Reserved><SBSRC.Enable type="flag">0</SBSRC.Enable><SBSRC.Priority type="int">0</SBSRC.Priority><SBSRC.Tos type="int">0</SBSRC.Tos><SBSRC.Reserved type="flag">0</SBSRC.Reserved><PrsUsage type="int">1</PrsUsage></Ocds><Suspend type="key"><STM type="int">4294967295</STM><GPTA0 type="int">4294967295</GPTA0><ADC0 type="int">4294967295</ADC0><ASC0 type="int">4294967295</ASC0><CAN type="int">4294967295</CAN><DMA type="int">4294967295</DMA><FADC type="int">4294967295</FADC><MSC0 type="int">4294967295</MSC0><MSC1 type="int">4294967295</MSC1><SSC0 type="int">4294967295</SSC0><SSC1 type="int">4294967295</SSC1><ERAY type="int">4294967295</ERAY></Suspend></UDE.TcCoreTargIntf></UDE.TriCoreArchSrv><UDE.UDESymbol type="key"><BinaryFiles type="key"><Number type="int">1</Number><BinaryFile1 type="key"><FullPath type="string">..\eRAM\FreeRTOSTC1797.elf</FullPath></BinaryFile1><BinaryFile-1 type="key"/></BinaryFiles><MultiCoreLoader type="key"><Number type="int">0</Number></MultiCoreLoader><ExpressionClipboard type="key"><Number type="int">0</Number></ExpressionClipboard></UDE.UDESymbol><STG_ADDON_PROF type="key"><UDE_Graphwin_Trace_AddOn type="key" name="UDE Graphwin Trace AddOn"><LOAD_STATE type="flag">1</LOAD_STATE></UDE_Graphwin_Trace_AddOn><UDELicense_Server type="key" name="UDELicense Server"><LOAD_STATE type="flag">1</LOAD_STATE></UDELicense_Server><UDEMemtool type="key"><LOAD_STATE type="flag">1</LOAD_STATE><FlashMod_PFLASH type="key"/><FlashMod_PFLASH1 type="key"/><FlashMod_DFLASH type="key"/><FlashMod_Flash type="key"/><Frontend type="key"><LastModule type="int">0</LastModule><VerifyProt type="flag">0</VerifyProt><VerifyProtFile type="string">verify.txt</VerifyProtFile><VerifyOnExit type="flag">0</VerifyOnExit><StoreLoadedSections type="flag">0</StoreLoadedSections><AutoStartProgAfterDownload type="flag">0</AutoStartProgAfterDownload><AutoCloseExecCmdDialog type="flag">0</AutoCloseExecCmdDialog><AllowOverwrite type="flag">0</AllowOverwrite></Frontend></UDEMemtool><ADD_ON_DEL_FLAG type="flag">0</ADD_ON_DEL_FLAG></STG_ADDON_PROF><CommQueueHndlStg type="key"><Beep type="flag">0</Beep><Retry type="flag">0</Retry><RetryPeriod type="int">0</RetryPeriod></CommQueueHndlStg><TargetStateHndlStg type="key"/></UDE.StdDbgSrv><MRUSourceFileList type="key"><NoOfMRUSrcFileEntries type="int">1</NoOfMRUSrcFileEntries><MRUSrcFile0 type="string">..\src\main.c</MRUSrcFile0></MRUSourceFileList></Core><TargetInfoFile type="string">.target\TriBoard_TC1797.cfg</TargetInfoFile><LastWriteDate type="string">14.09.2014 16:11:36:000</LastWriteDate><BackupWsp type="string">UDEDefEclipseWorkspace_091414162144.wsx</BackupWsp></stg>
