@@ -745,6 +745,9 @@ static void prvRegisterCheckTask2( void *pvParameters )
 void daveMCAL_Init(void){
 	  /*   initializes the Parallel Ports  */
 	  IO_vInit();
+
+	  /*   initializes the MultiCAN Controller */
+	  CAN_vInit();
 }
 
 /*-----------------------------------------------------------*/

@@ -209,6 +209,7 @@ void MAIN_vWriteWDTCON0(uword uwValue);
 #include  <machine/cint.h> 
 #include  <sys/types.h> 
 #include  "IO.h"
+#include  "CAN.h"
 
 // USER CODE BEGIN (MAIN_Header,10)
 

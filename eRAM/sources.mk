@@ -22,5 +22,6 @@ src/FreeRTOS_Source/portable/MemMang \
 src/FreeRTOS_Source/portable/GCC/TriCore_1782 \
 src/Dave/IO \
 src/Dave \
+src/Dave/CAN \
 src/Common_Demo_Source \
 
